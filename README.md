@@ -19,4 +19,6 @@ HTTPS: https://192.168.100.153:8443 (Accept the SSL warning)
 All activities are  logged for analysis. You can find the logs in honeypot_log.txt.
 
 Below are sample screenshots of the honeypot in action:
+![HTTP Honeypot](http1.png)
+![HTTPS Honeypot](https1.png)
 
